@@ -1,0 +1,37 @@
+key_point_id,key_point,topic,stance
+kp_4_0,Children can still express themselves using other means,We should abandon the use of school uniform,-1
+kp_4_1,School uniform reduces bullying,We should abandon the use of school uniform,-1
+kp_4_2,School uniforms encourage discipline or focus on learning,We should abandon the use of school uniform,-1
+kp_4_3,School uniforms saves costs,We should abandon the use of school uniform,-1
+kp_4_4,School uniforms create a sense of equality/unity,We should abandon the use of school uniform,-1
+kp_4_5,School uniform is harming the student's self expression,We should abandon the use of school uniform,1
+kp_4_6,School uniforms are expensive,We should abandon the use of school uniform,1
+kp_4_7,School uniforms are often uncomfortable/sexist,We should abandon the use of school uniform,1
+kp_4_8,School uniform harms learning/creativity,We should abandon the use of school uniform,1
+kp_4_9,School uniforms increase conformity or harm individuality,We should abandon the use of school uniform,1
+kp_7_0,Gun control is ineffective,We should abolish the right to keep and bear arms,-1
+kp_7_1,Gun ownership is a right,We should abolish the right to keep and bear arms,-1
+kp_7_2,Gun ownership is necessary for hunting/sports-shooting,We should abolish the right to keep and bear arms,-1
+kp_7_3,Gun ownership promotes self protection,We should abolish the right to keep and bear arms,-1
+kp_7_4,Banning guns would save lives,We should abolish the right to keep and bear arms,1
+kp_7_5,Guns can fall into the wrong hands,We should abolish the right to keep and bear arms,1
+kp_7_6,Guns lead to accidental deaths,We should abolish the right to keep and bear arms,1
+kp_7_7,Gun ownership allows for mass-shootings/general gun violence,We should abolish the right to keep and bear arms,1
+kp_8_0,Austerity cuts access to essential services,We should adopt an austerity regime,-1
+kp_8_1,Austerity extend recessions,We should adopt an austerity regime,-1
+kp_8_2,Austerity is unfair to the citizens,We should adopt an austerity regime,-1
+kp_8_3,Austerity results in lower growth,We should adopt an austerity regime,-1
+kp_8_4,Austerity results in lower job creation,We should adopt an austerity regime,-1
+kp_8_5,Austerity improves the economic measures,We should adopt an austerity regime,1
+kp_8_6,Austerity is important in the long term,We should adopt an austerity regime,1
+kp_8_7,Austerity is important to increase stability,We should adopt an austerity regime,1
+kp_8_8,Austerity is necessary to reduce deficits or pay debts,We should adopt an austerity regime,1
+kp_8_9,Austerity regime is essential in economically troubled times,We should adopt an austerity regime,1
+kp_15_0,Affirmative action boosts diversity,We should end affirmative action,-1
+kp_15_1,Affirmative action is necessary to compensate for the past,We should end affirmative action,-1
+kp_15_2,Affirmative action reduces discrimination,We should end affirmative action,-1
+kp_15_3,Affirmative action diminishes the achievements of minorities,We should end affirmative action,1
+kp_15_4,Affirmative action is ineffective,We should end affirmative action,1
+kp_15_5,Affirmative action is not just,We should end affirmative action,1
+kp_15_6,Affirmative action perpetuates prejudice,We should end affirmative action,1
+kp_15_7,Affirmative action reduces quality,We should end affirmative action,1

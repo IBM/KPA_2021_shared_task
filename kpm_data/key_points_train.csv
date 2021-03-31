@@ -1,0 +1,208 @@
+key_point_id,key_point,topic,stance
+kp_0_0,Assisted suicide gives dignity to the person that wants to commit it,Assisted suicide should be a criminal offence,-1
+kp_0_1,Assisted suicide reduces suffering,Assisted suicide should be a criminal offence,-1
+kp_0_2,People should have the freedom to choose to end their life,Assisted suicide should be a criminal offence,-1
+kp_0_3,The terminally ill would benefit from assisted suicide,Assisted suicide should be a criminal offence,-1
+kp_0_4,Assisted suicide allows people to solicit someone to die to their own benefit,Assisted suicide should be a criminal offence,1
+kp_0_5,Assisted suicide is akin to killing someone,Assisted suicide should be a criminal offence,1
+kp_0_6,Assisted suicide should not be allowed because many times people can still get better,Assisted suicide should be a criminal offence,1
+kp_0_7,Assisted suicide violates the doctor's role,Assisted suicide should be a criminal offence,1
+kp_0_8,People do not have the right to self-harm/harm others,Assisted suicide should be a criminal offence,1
+kp_0_9,People who are ill do not have clear judgement and are in need of help,Assisted suicide should be a criminal offence,1
+kp_1_0,Homeschooling is often the best option for catering for the needs of exceptional/religious/ill/disabled students.,Homeschooling should be banned,-1
+kp_1_1,Homeschools can be personalized to the child's pace/needs,Homeschooling should be banned,-1
+kp_1_2,Mainstream schools have a lot of violence/bullying,Homeschooling should be banned,-1
+kp_1_3,Parents should be permitted to choose the education of their children,Homeschooling should be banned,-1
+kp_1_4,Parents will have more ability to pay-attention/educate their child,Homeschooling should be banned,-1
+kp_1_5,The home is a good learning environment,Homeschooling should be banned,-1
+kp_1_6,Mainstream schools are essential to develop social skills,Homeschooling should be banned,1
+kp_1_7,Parents are not qualified as teachers,Homeschooling should be banned,1
+kp_1_8,Homeschools cannot be regulated/standardized,Homeschooling should be banned,1
+kp_1_9,Mainstream schools are of higher educational quality,Homeschooling should be banned,1
+kp_2_0,Celibacy allows a priest to focus on God,The vow of celibacy should be abandoned,-1
+kp_2_1,Celibacy is a strong religious belief,The vow of celibacy should be abandoned,-1
+kp_2_2,Celibacy makes the priests to be perceived as holy,The vow of celibacy should be abandoned,-1
+kp_2_3,Priests choose to be celibates,The vow of celibacy should be abandoned,-1
+kp_2_4,Religious experiences and traditions should be maintained,The vow of celibacy should be abandoned,-1
+kp_2_5,Removing celibacy could lead to sexually reckless acts,The vow of celibacy should be abandoned,-1
+kp_2_6,Celibacy is outdated,The vow of celibacy should be abandoned,1
+kp_2_7,Celibacy is too pressuring/diffcult,The vow of celibacy should be abandoned,1
+kp_2_8,Celibacy is unhealthy/unnatural,The vow of celibacy should be abandoned,1
+kp_2_9,Celibacy leads to wrong sexual behaviour,The vow of celibacy should be abandoned,1
+kp_2_10,Celibacy reduces the pool of people wanting to become priests,The vow of celibacy should be abandoned,1
+kp_3_0,Marriage benefits children,We should abandon marriage,-1
+kp_3_1,"Marriage is important for people, either generally or because of religious/traditional reasons",We should abandon marriage,-1
+kp_3_2,Marriage makes people happy,We should abandon marriage,-1
+kp_3_3,Marriage makes the couple closer,We should abandon marriage,-1
+kp_3_4,Marriage provides important financial benefits,We should abandon marriage,-1
+kp_3_5,Marriage preserves norms that are harmful for women,We should abandon marriage,1
+kp_3_6,Marriages are unstable,We should abandon marriage,1
+kp_3_7,Marriages tie up people with unfair obligations,We should abandon marriage,1
+kp_3_8,Most of the advantages of marriage are achieved by a monogamous relationship,We should abandon marriage,1
+kp_5_0,The death penalty helps the victim/their family,We should abolish capital punishment,-1
+kp_5_1,The death penalty is proportional,We should abolish capital punishment,-1
+kp_5_2,The death penalty prevents crimes,We should abolish capital punishment,-1
+kp_5_3,The death penalty saves costs to the state,We should abolish capital punishment,-1
+kp_5_4,The death penalty is acceptable in cases of severe crimes,We should abolish capital punishment,-1
+kp_5_5,State-sanctioned killing is principally wrong,We should abolish capital punishment,1
+kp_5_6,The death penalty harms the disenfranchised,We should abolish capital punishment,1
+kp_5_7,The death penalty irreversible,We should abolish capital punishment,1
+kp_5_8,The death penalty is a waste of resources,We should abolish capital punishment,1
+kp_5_9,The death penalty is ineffective in deterring crimes,We should abolish capital punishment,1
+kp_6_0,Intellectual property rights incentivize creativity/innovation,We should abolish intellectual property rights,-1
+kp_6_1,Intellectual property rights incentivize investment in developing new products,We should abolish intellectual property rights,-1
+kp_6_2,"People, or a business, own their innovations and should be able to be compensated for their endeavour",We should abolish intellectual property rights,-1
+kp_6_3,Intellectual property rights protect against stealing,We should abolish intellectual property rights,-1
+kp_6_4,Intellectual property restricts access to important information/products,We should abolish intellectual property rights,1
+kp_6_5,intellectual property rights are ineffective,We should abolish intellectual property rights,1
+kp_6_6,Intellectual property rights are unfair,We should abolish intellectual property rights,1
+kp_6_7,Intellectual property rights waste money,We should abolish intellectual property rights,1
+kp_6_8,Intellectual property prevents the continuous improvement of a service/product,We should abolish intellectual property rights,1
+kp_6_9,Intellectual property rights harm creativity/innovation,We should abolish intellectual property rights,1
+kp_9_0,Atheism lacks morality,We should adopt atheism,-1
+kp_9_1,People should choose for themselves whether Atheism should be adopted,We should adopt atheism,-1
+kp_9_2,Atheism discriminates against religious people / violates freedom of religion,We should adopt atheism,-1
+kp_9_3,Atheism is beneficial to the person that adopts it,We should adopt atheism,1
+kp_9_4,Atheism should be adopted since we cannot prove that God exists,We should adopt atheism,1
+kp_9_5,Religions are immoral and people should not follow them,We should adopt atheism,1
+kp_9_6,Science can adequately explain the Universe,We should adopt atheism,1
+kp_10_0,Libertarianism harms economic growth,We should adopt libertarianism,-1
+kp_10_1,Libertarianism harms minorities/those who are worse off,We should adopt libertarianism,-1
+kp_10_2,Libertarianism is unjust/non-equal,We should adopt libertarianism,-1
+kp_10_3,Libertarianism removes essential laws/infrastructure/government services,We should adopt libertarianism,-1
+kp_10_4,The government is essential to protect the rights of citizens,We should adopt libertarianism,-1
+kp_10_5,Libertarianism increases freedom in the political system,We should adopt libertarianism,1
+kp_10_6,Libertarianism increases happiness/fulfilment,We should adopt libertarianism,1
+kp_10_7,Libertarianism increases economic growth,We should adopt libertarianism,1
+kp_10_8,Libertarianism increases individual freedom/liberties,We should adopt libertarianism,1
+kp_11_0,Cloning can be used for organ replication,We should ban human cloning,-1
+kp_11_1,Cloning helps those who can’t otherwise have a child,We should ban human cloning,-1
+kp_11_2,Cloning promotes health,We should ban human cloning,-1
+kp_11_3,Cloning promotes science/research,We should ban human cloning,-1
+kp_11_4,Cloning can be used to create more advanced humans,We should ban human cloning,-1
+kp_11_5,Cloning is not understood enough yet,We should ban human cloning,1
+kp_11_6,Cloning is unethical/anti-religious,We should ban human cloning,1
+kp_11_7,Cloning is unnatural,We should ban human cloning,1
+kp_11_8,Cloning is unsafe,We should ban human cloning,1
+kp_12_0,Hiring private military companies is financially beneficial,We should ban private military companies,-1
+kp_12_1,Private military companies are well-trained/better equipped,We should ban private military companies,-1
+kp_12_2,"Private military companies can supplement regular armies in specific tasks that armies cannot, or do not want, to do",We should ban private military companies,-1
+kp_12_3,Private military companies increase safety,We should ban private military companies,-1
+kp_12_4,Private military companies are not professional,We should ban private military companies,1
+kp_12_5,Private military companies main interest is profit,We should ban private military companies,1
+kp_12_6,"Private military companies solicit engaging, or prolonging, conflict",We should ban private military companies,1
+kp_12_7,Private military companies are less ethical and violate rights or commit crimes,We should ban private military companies,1
+kp_12_8,Private military companies cannot be trusted to be loyal to the hiring country,We should ban private military companies,1
+kp_13_0,Acting may be the child's dream,We should ban the use of child actors,-1
+kp_13_1,Child performers achieve success/confidence,We should ban the use of child actors,-1
+kp_13_2,Child performers are necessary for roles,We should ban the use of child actors,-1
+kp_13_3,Child performers should not be banned as long as there is supervision/regulation,We should ban the use of child actors,-1
+kp_13_4,The parents should decide for their child,We should ban the use of child actors,-1
+kp_13_5,Being a performer harms the child's education,We should ban the use of child actors,1
+kp_13_6,Child performers are losing their childhood,We should ban the use of child actors,1
+kp_13_7,Child performers have a lot of pressure,We should ban the use of child actors,1
+kp_13_8,Child performers tend to develop problems later in life,We should ban the use of child actors,1
+kp_13_9,Child performers are at risk of exploitation,We should ban the use of child actors,1
+kp_14_0,Closing the Guantanamo bay detention camp would harm national security,We should close Guantanamo Bay detention camp,-1
+kp_14_1,The Guantanamo bay detention camp is better for prisoners than the alternatives,We should close Guantanamo Bay detention camp,-1
+kp_14_2,The Guantanamo bay detention camp is essential to gain intelligence,We should close Guantanamo Bay detention camp,-1
+kp_14_3,Detainees have the right to trial in US courts,We should close Guantanamo Bay detention camp,1
+kp_14_4,The Guantanamo bay detention camp harms the US image/reputation/institutions,We should close Guantanamo Bay detention camp,1
+kp_14_5,The Guantanamo bay detention camp is expensive,We should close Guantanamo Bay detention camp,1
+kp_14_6,The Guantanamo bay detention camp personnel commit crimes against the prisoners,We should close Guantanamo Bay detention camp,1
+kp_14_7,unjust treatment/tactics are used in the Guantanamo bay detention camp,We should close Guantanamo Bay detention camp,1
+kp_14_8,The Guantanamo bay detention camp is a symbol of discrimination/injustice,We should close Guantanamo Bay detention camp,1
+kp_16_0,A mandatory retirement age creates opportunities for other workers,We should end mandatory retirement,-1
+kp_16_1,mandatory retirement age benefits those that are about to be retired,We should end mandatory retirement,-1
+kp_16_2,A mandatory retirement age decreases institutional knowledge,We should end mandatory retirement,1
+kp_16_3,A mandatory retirement age harms the economy,We should end mandatory retirement,1
+kp_16_4,A mandatory retirement is not fair/discriminatory,We should end mandatory retirement,1
+kp_16_5,A mandatory retirement reduces the quality of life for those forced to retire,We should end mandatory retirement,1
+kp_16_6,We should let everyone retire when they are ready,We should end mandatory retirement,1
+kp_17_0,Nuclear weapons is essential for protection and deterrence,We should fight for the abolition of nuclear weapons,-1
+kp_17_1,Nuclear weapons can fall into the wrong hands,We should fight for the abolition of nuclear weapons,1
+kp_17_2,Nuclear weapons provoke or escalate a disastrous military action,We should fight for the abolition of nuclear weapons,1
+kp_18_0,Cities offer more opportunities,We should fight urbanization,-1
+kp_18_1,Urbanization benefits the economy,We should fight urbanization,-1
+kp_18_2,Urbanization benefits the environment,We should fight urbanization,-1
+kp_18_3,Restrictions on migration would benefit people in the rural areas economically/socially,We should fight urbanization,1
+kp_18_4,Urbanization causes crime,We should fight urbanization,1
+kp_18_5,Urbanization harms the environment,We should fight urbanization,1
+kp_18_6,Urbanization is causing a strain on the cities' resources,We should fight urbanization,1
+kp_19_0,Abstaining from a vote is also reflecting your preferences,We should introduce compulsory voting,-1
+kp_19_1,Citizens have a right not to vote,We should introduce compulsory voting,-1
+kp_19_2,Compulsory voting can cause people to vote in an uninformed/random manner,We should introduce compulsory voting,-1
+kp_19_3,Not everyone has the ability to go to vote,We should introduce compulsory voting,-1
+kp_19_4,Compulsory voting increases representation,We should introduce compulsory voting,1
+kp_19_5,Compulsory voting will cause more people to become interested in politics,We should introduce compulsory voting,1
+kp_19_6,People have an obligation to vote,We should introduce compulsory voting,1
+kp_20_0,Cannabis harms the body,We should legalize cannabis,-1
+kp_20_1,Cannabis increases lack-of-judgement/accidents,We should legalize cannabis,-1
+kp_20_2,Cannabis is a gateway-drug/addictive,We should legalize cannabis,-1
+kp_20_3,Legal cannabis can be getting to the hand of underage teenagers/children,We should legalize cannabis,-1
+kp_20_4,Legal cannabis will boost the black-market/criminal activity,We should legalize cannabis,-1
+kp_20_5,Cannabis is financially beneficial,We should legalize cannabis,1
+kp_20_6,Cannabis is safe/healthy/pain-relief,We should legalize cannabis,1
+kp_20_7,If cannabis was legalized it could be regulated,We should legalize cannabis,1
+kp_20_8,People should be allowed to do whatever they want to their own bodies,We should legalize cannabis,1
+kp_20_9,Alcohol and tobacco are more harmful drugs yet remain legal,We should legalize cannabis,1
+kp_20_10,Legalizing cannabis will reduce black-market/criminal activity,We should legalize cannabis,1
+kp_21_0,Legalization will lead to more sexually transmitted diseases,We should legalize prostitution,-1
+kp_21_1,Legalizing sex work will increase immoral behaviour like pimping/organized crime/trafficking,We should legalize prostitution,-1
+kp_21_2,Legalizing sex work will increase violence against women,We should legalize prostitution,-1
+kp_21_3,Selling one's body is immoral,We should legalize prostitution,-1
+kp_21_4,Legalizing sex work boosts the economy,We should legalize prostitution,1
+kp_21_5,"Legalizing sex work increases sex workers' benefits (e.g. health care, safe sex, unionization, etc.)",We should legalize prostitution,1
+kp_21_6,Legalizing sex work will allow to regulate those in the profession ,We should legalize prostitution,1
+kp_21_7,Legalizing sex work will make the profession safer for women,We should legalize prostitution,1
+kp_21_8,Sex work is a valid choice over your body,We should legalize prostitution,1
+kp_22_0,Sex selection can lead to gender imbalance,We should legalize sex selection,-1
+kp_22_1,Sex selection is against tradition,We should legalize sex selection,-1
+kp_22_2,Sex selection is expensive,We should legalize sex selection,-1
+kp_22_3,Sex selection reaffirms gender stereotypes/biases,We should legalize sex selection,-1
+kp_22_4,Sex selection will create abortions/infanticide,We should legalize sex selection,-1
+kp_22_5,It is unethical/unhealthy for parents to intervene,We should legalize sex selection,-1
+kp_22_6,It is within the freedoms of the parents to select the sex of the child,We should legalize sex selection,1
+kp_22_7,Sex selection allows for better family planning,We should legalize sex selection,1
+kp_22_8,Sex selection prevents diseases in the child,We should legalize sex selection,1
+kp_22_9,Sex selection will prevent abortions/infanticide,We should legalize sex selection,1
+kp_22_10,Sex selection makes the family more happy/complete,We should legalize sex selection,1
+kp_23_0,flag burning is an effective tool of expression/protest/critique,We should prohibit flag burning,-1
+kp_23_1,flag burning is justified due to freedom of expression,We should prohibit flag burning,-1
+kp_23_2,flag burning is an inflammatory act,We should prohibit flag burning,1
+kp_23_3,Flags are important symbols that should be respected,We should prohibit flag burning,1
+kp_24_0,There should be equality between men and women.,We should prohibit women in combat,-1
+kp_24_1,Women are an asset in combat,We should prohibit women in combat,-1
+kp_24_2,Women can create unique skills/strategies,We should prohibit women in combat,-1
+kp_24_3,Women can overcome differences and be just as capable in combat,We should prohibit women in combat,-1
+kp_24_4,Women should be able to serve in combat if they choose to,We should prohibit women in combat,-1
+kp_24_5,Women should be accepted as long as they pass the tests,We should prohibit women in combat,-1
+kp_24_6,Men are better suited to combat roles than women,We should prohibit women in combat,1
+kp_24_7,Women cannot overcome physical/emotional/mental barriers,We should prohibit women in combat,1
+kp_24_8,Women in combat can be a distraction or harm the function of the military,We should prohibit women in combat,1
+kp_24_9,Women should serve in safer roles,We should prohibit women in combat,1
+kp_24_10,Women soldier capture is a big concern,We should prohibit women in combat,1
+kp_25_0,Government intervention has the risk of inserting bias/harming objectivity,We should subsidize journalism,-1
+kp_25_1,It is preferable to spend the money elsewhere,We should subsidize journalism,-1
+kp_25_2,Journalism is like every other business and if it is not sustainable it should fail,We should subsidize journalism,-1
+kp_25_3,Journalism is important to information-spreading/accountability,We should subsidize journalism,1
+kp_25_4,Subsidies will increase the quality of journalism,We should subsidize journalism,1
+kp_25_5,Subsidy increases objectivity in reporting,We should subsidize journalism,1
+kp_25_6,A subsidy is important to make journalism viable,We should subsidize journalism,1
+kp_26_0,Space exploration can be carried by the private sector,We should subsidize space exploration,-1
+kp_26_1,Space exploration is expensive,We should subsidize space exploration,-1
+kp_26_2,Space exploration is ineffective,We should subsidize space exploration,-1
+kp_26_3,There are issues more important to fund than space exploration,We should subsidize space exploration,-1
+kp_26_4,Space exploration can help in colonizing the resources/lands of other planets,We should subsidize space exploration,1
+kp_26_5,Space exploration improves science/technology,We should subsidize space exploration,1
+kp_26_6,Space exploration is financially beneficial,We should subsidize space exploration,1
+kp_26_7,Space exploration is necessary for the future survival of humanity,We should subsidize space exploration,1
+kp_26_8,Space exploration unravels information about the universe,We should subsidize space exploration,1
+kp_27_0,subsidizing vocational education leads to an influx in those professions,We should subsidize vocational education,-1
+kp_27_1,vocational education is not a good career choice,We should subsidize vocational education,-1
+kp_27_2,subsidizing vocational education diverts money from more worthy causes,We should subsidize vocational education,-1
+kp_27_3,subsidizing vocational education is expensive,We should subsidize vocational education,-1
+kp_27_4,subsidizing vocational education promotes those with fewer resources,We should subsidize vocational education,1
+kp_27_5,vocational education is a good career choice,We should subsidize vocational education,1
+kp_27_6,vocational education better fits many students,We should subsidize vocational education,1
+kp_27_7,vocational education is beneficial for the entire market/society,We should subsidize vocational education,1
