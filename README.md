@@ -162,5 +162,9 @@ Wherever appropriate, academic citation for the sending group would be added (e.
 #### Google group for participants: 
 
 Please join us on:
-`kpa_2021_shared_task at googlegroups.com` to receive e-mail updates whenever new data is made available for the shared task.
+`https://groups.google.com/g/kpa_2021_shared_task` to receive e-mail updates whenever new data is made available for the shared task.
+
+#### Contact the organizers: 
+
+Please contact us on any issue you have at: `KPA_2021_shared_task_organizers@googlegroups.com`.
 
