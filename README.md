@@ -7,6 +7,9 @@ Given an input corpus, consisting of a collection of relatively short, opinionat
 Note: All participating teams must take part in track 1, while track 2 is optional. Scoring as one of the top 10 teams on track 1 is a perquisite for being evaluated on track 2.
 
 
+The leaderboard is now available [here](https://competitions.codalab.org/competitions/31166).
+
+
 ### Track 1 – Key-Point Matching
 Given a debatable topic, a set of key points per stance, and a set of crowd arguments supporting or contesting the topic, report for each argument its match score for each of the key points under the same stance towards the topic.
 
@@ -101,6 +104,8 @@ The output file should have the following json format:
 
 Here for instance, arg_15_0 is matched with two key points. The score for the match with kp_15_2 is 0.9438725709915161.
 
+The submitted zip file should contain a single file named *predictions.p*.
+
 <ins>Evaluation</ins> : 
 
 Test dataset will be pre-labeled according to the guidelines in [Bar-Haim et al., ACL-2020](https://www.aclweb.org/anthology/2020.acl-main.371.pdf), for pairs of argument/key-point as matching/non-matching. 
@@ -130,8 +135,8 @@ Key points on each topic - at least 5 key points and at most 10 per topic, with 
 As in track 1, for each argument, its match score for each of the key points under the same topic and in the same stance towards the topic. 
 
 The output should contain two files: 
-1. a csv file that contains all the newly generated key_points. The format should match the specified format of the file key_points.csv that is provided for track 1.
-2. a json file that contains all the matches between key points and arguments. The format should match the format of the output file for track 1.
+1. a file named *key_points.csv* - a csv file that contains all the newly generated key_points. The format should match the specified format of the file key_points.csv that is provided for track 1.
+2. a file named *predictions.p* - a json file that contains all the matches between key points and arguments. The format should match the format of the output file for track 1.
 
 <ins>Evaluation</ins>:
 
