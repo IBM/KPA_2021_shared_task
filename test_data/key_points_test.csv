@@ -1,0 +1,34 @@
+key_point_id,key_point,topic,stance
+kp_0_0,"Routine child vaccinations, or their side effects, are dangerous",Routine child vaccinations should be mandatory,-1
+kp_0_1,Mandatory vaccination contradicts basic rights,Routine child vaccinations should be mandatory,-1
+kp_0_2,The parents and not the state should decide,Routine child vaccinations should be mandatory,-1
+kp_0_3,Routine child vaccinations are not necessary to keep children healthy,Routine child vaccinations should be mandatory,-1
+kp_0_4,Routine child vaccinations are effective,Routine child vaccinations should be mandatory,1
+kp_0_5,Child vaccination saves lives,Routine child vaccinations should be mandatory,1
+kp_0_6,Routine child vaccinations are necessary to protect others,Routine child vaccinations should be mandatory,1
+kp_0_7,Routine child vaccinations should be mandatory to prevent virus/disease spreading,Routine child vaccinations should be mandatory,1
+kp_0_8,Children should not suffer from preventable diseases,Routine child vaccinations should be mandatory,1
+kp_1_0,Social media regulation is not effective,Social media platforms should be regulated by the government,-1
+kp_1_1,Social media regulation harms privacy,Social media platforms should be regulated by the government,-1
+kp_1_2,Social media regulation harm freedom of speech and other democratic rights,Social media platforms should be regulated by the government,-1
+kp_1_3,The government should not intervene in the affairs of a private company,Social media platforms should be regulated by the government,-1
+kp_1_4,Social media regulation can lead to political abuses by the government,Social media platforms should be regulated by the government,-1
+kp_1_5,Social media regulation protects the younger audiences,Social media platforms should be regulated by the government,1
+kp_1_6,Social media regulation is necessary to deal with fake news,Social media platforms should be regulated by the government,1
+kp_1_7,Social media regulation is beneficial to society at large,Social media platforms should be regulated by the government,1
+kp_1_8,Social media regulation can help to deal with negative content,Social media platforms should be regulated by the government,1
+kp_1_9,Social media regulation is required to deal with malicious users,Social media platforms should be regulated by the government,1
+kp_2_0,The US has unfair health and education policies,The USA is a good country to live in,-1
+kp_2_1,The US has a problematic/divisive political system,The USA is a good country to live in,-1
+kp_2_2,The US has high taxation/high costs of living,The USA is a good country to live in,-1
+kp_2_3,The US is xenophobic/racist,The USA is a good country to live in,-1
+kp_2_4,The US has inequality/poverty,The USA is a good country to live in,-1
+kp_2_5,The US is unsafe,The USA is a good country to live in,-1
+kp_2_6,The US has a negative culture,The USA is a good country to live in,-1
+kp_2_7,The US offers great opportunities for individuals,The USA is a good country to live in,1
+kp_2_8,The US has freedoms/ democratic rights,The USA is a good country to live in,1
+kp_2_9,The US has a great environment/nature,The USA is a good country to live in,1
+kp_2_10,The US is a powerful country,The USA is a good country to live in,1
+kp_2_11,The US has a good economy/high standard of living,The USA is a good country to live in,1
+kp_2_12,The US has a good health and education systems ,The USA is a good country to live in,1
+kp_2_13,The US has great people/culture,The USA is a good country to live in,1
