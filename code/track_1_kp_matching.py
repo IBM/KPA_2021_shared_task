@@ -36,9 +36,11 @@ def load_kpm_data(gold_data_dir, subset):
     return arguments_df, key_points_df, labels_file_df
 
 
-def get_predictions(predictions_file, labels_df, arg_df):
+def get_predictions(predictions_file, labels_df, arg_df, kp_df):
+    expected_number_of_pairs = len(arg_df.merge(kp_df, on=["topic", "stance"]))
+
     arg_df = arg_df[["arg_id", "topic", "stance"]]
-    predictions_df = load_predictions(predictions_file)
+    predictions_df = load_predictions(predictions_file, expected_number_of_pairs)
     #make sure each arg_id has a prediction
     predictions_df = pd.merge(arg_df, predictions_df, how="left", on="arg_id")
 
@@ -59,18 +61,26 @@ def get_predictions(predictions_file, labels_df, arg_df):
 this method chooses the best key point for each argument
 and generates a dataframe with the matches and scores
 """
-def load_predictions(predictions_dir):
+def load_predictions(predictions_dir, expected_number_of_pairs):
     arg =[]
     kp = []
     scores = []
     with open(predictions_dir, "r") as f_in:
         res = json.load(f_in)
+        reveiced_number_of_pairs = 0
         for arg_id, kps in res.items():
+            reveiced_number_of_pairs += len(kps)
             best_kp = max(kps.items(), key=lambda x: x[1])
             arg.append(arg_id)
             kp.append(best_kp[0])
             scores.append(best_kp[1])
         print(f"loaded predictions for {len(arg)} arguments")
+
+        if  reveiced_number_of_pairs!= expected_number_of_pairs:
+            print(
+                f"""Warning: Expected {expected_number_of_pairs} predictions but got {reveiced_number_of_pairs}. 
+                The missing predictions will be ignored during the evaluation of this script."""
+            )
         return pd.DataFrame({"arg_id" : arg, "key_point_id": kp, "score": scores})
 
 if __name__ == "__main__":
@@ -82,5 +92,5 @@ if __name__ == "__main__":
 
         arg_df, kp_df, labels_df = load_kpm_data(gold_data_dir, subset="dev")
 
-        merged_df = get_predictions(predictions_file, labels_df, arg_df)
+        merged_df = get_predictions(predictions_file, labels_df, arg_df, kp_df)
         evaluate_predictions(merged_df)
