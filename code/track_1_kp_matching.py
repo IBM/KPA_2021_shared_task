@@ -16,6 +16,10 @@ def calculate_average_precision(df: DataFrame, label_column: str,
     """
     top = int(len(df) * top_percentile)
     df = df.sort_values("score", ascending=False).head(top)
+    # If labels don't contain any match, define average precision as zero.
+    # Otherwise, calculating precision would fail because of division by zero.
+    if (df[label_column] == 0).all():
+        return 0
     return average_precision_score(
         y_true=df[label_column],
         y_score=df["score"]
@@ -132,16 +136,23 @@ def merge_labels_with_predictions(
         how="left",
         on=["arg_id", "key_point_id"]
     )
+    # Warn if some pairs were not predicted.
+    if (merged_df["score"].isna()).any():
+        print(
+            "Warning: Not all argument key point pairs were predicted. "
+            "Missing predictions will be treated as no match."
+        )
     # Fill unpredicted labels, treat them as no match (0).
     merged_df["score"] = merged_df["score"].fillna(0)
     # Select best-scored key point per argument.
-    # Shuffle (with seed 42) to select a random key point in case of a tie.
-    merged_df = merged_df.groupby(by="arg_id") \
-        .apply(lambda df: df
-               .sample(frac=1, random_state=42)
-               .sort_values(by="score", ascending=False)
-               .head(1)) \
-        .reset_index(drop=True)
+    # Shuffle (with seed 42) before sorting to ensure
+    # that a random key point is selected in case of a tie.
+    merged_df = (merged_df.groupby(by="arg_id")
+                 .apply(lambda df: df
+                        .sample(frac=1, random_state=42)
+                        .sort_values(by="score", ascending=False)
+                        .head(1))
+                 .reset_index(drop=True))
     return merged_df
 
 
