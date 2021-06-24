@@ -12,6 +12,10 @@ def get_ap(df, label_column, top_percentile=0.5):
     df = df.sort_values('score', ascending=False).head(top)
     # after selecting top percentile candidates, we set the score for the dummy kp to 1, to prevent it from increasing the precision.
     df.loc[df['key_point_id'] == "dummy_id", 'score'] = 0.99
+    # it seems like average_precision_score tries to divide by the sum of the labels
+    # which will fail in case all labels are 0
+    if (df[label_column] == 0).all():
+        return 0
     return average_precision_score(y_true=df[label_column], y_score=df["score"])
 
 def calc_mean_average_precision(df, label_column):
